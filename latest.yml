@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: V-SPACE-Setup-1.0.0.exe
+    sha512: XX+0ntlnwoAZPIui9MDTXaqhGfo2Td+cgWW+Y90dbBhQTa3xu7ildw4oygEjhnAjfvvDOHsrNawCT8mwdEkKQA==
+    size: 102674757
+path: V-SPACE-Setup-1.0.0.exe
+sha512: XX+0ntlnwoAZPIui9MDTXaqhGfo2Td+cgWW+Y90dbBhQTa3xu7ildw4oygEjhnAjfvvDOHsrNawCT8mwdEkKQA==
+releaseDate: '2026-11-20T22:30:52.804Z'
